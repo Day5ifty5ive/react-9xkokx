@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 
-export default function App() {
+export default function App_1() {
   return (
     <div>
       <form method="post" action="" name="signup-form">
