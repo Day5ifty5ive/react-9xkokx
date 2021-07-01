@@ -1,10 +1,16 @@
 h1, p {
   font-family: Lato;
 }
-.scr1 {
-  background-color:aqua;
-  width: 400px;
+.form-element {
+  background-color:rgb(235, 235, 235);
+  margin: 0;
+  position: absolute;
   top: 50%;
-  margin-left: auto;
-  margin-right: auto;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 300px;
+  height: 150px;
+  padding: 20px;
+  text-align: center;
 } 
