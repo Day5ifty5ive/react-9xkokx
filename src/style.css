@@ -3,5 +3,8 @@ h1, p {
 }
 .scr1 {
   background-color:aqua;
-  width: 100px;
+  width: 400px;
+  top: 50%;
+  margin-left: auto;
+  margin-right: auto;
 } 
