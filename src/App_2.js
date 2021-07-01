@@ -5,7 +5,7 @@ export default function App_2() {
   return (
     <div>
       <form method="post" action="" name="signup-form">
-        <div>
+        <div class="form-element">
           <div>
             <label>•</label>
           </div>

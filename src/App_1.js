@@ -16,10 +16,10 @@ export default function App_1() {
             <label>•</label>
           </div>
           <button type="submit" name="register" value="register">
-            Rifiuta
+            Rifiuta (1)
           </button>
           <button type="submit" name="register" value="register">
-            Accetta
+            Accetta (1)
           </button>
         </div>
       </form>
