@@ -15,12 +15,8 @@ export default function App_1() {
           <div>
             <label>•</label>
           </div>
-          <button type="submit" name="register" value="register">
-            Rifiuta (1)
-          </button>
-          <button type="submit" onclick="myFunction()"  name="register" value="register">
-            Accetta (1)
-          </button>
+          <button>Rifiuta (1)</button>        
+          <button onClick="myFunction()">Accetta (1)</button>              
         </div>
       </form>
     </div>
