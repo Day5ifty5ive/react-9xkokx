@@ -8,5 +8,5 @@ ReactDOM.render(<App_1 />, document.getElementById('root'));
 
 function nextWindow() {
   // alert("!")
-  ReactDOM.render(<App_2 />, document.getElementById("root"));
+  ReactDOM.render(<App_2 />, document.getElementById('root'));
 }
