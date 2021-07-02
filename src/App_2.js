@@ -15,12 +15,8 @@ export default function App_2() {
           <div>
             <label>•</label>
           </div>
-          <button type="submit" name="register" value="register">
-            Rifiuta (2)
-          </button>
-          <button type="submit" name="register" value="register">
-            Accetta (2)
-          </button>
+          <button>Rifiuta (2)</button>        
+          <button>Accetta (2)</button>
         </div>
       </form>
     </div>
