@@ -16,7 +16,7 @@ export default function App_1() {
             <label>•</label>
           </div>
           <button>Rifiuta (1)</button>        
-          <button onClick="myFunction()">Accetta (1)</button>              
+          <button onClick="nextWindow()">Accetta (1)</button>              
         </div>
       </form>
     </div>
