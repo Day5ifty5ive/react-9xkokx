@@ -4,7 +4,7 @@ import './style.css';
 export default function App_1() {
   return (
     <div>
-      <form>
+      <form method="post" action="" name="signup-form">
         <div class="form-element">
           <div>
             <label>•</label>
