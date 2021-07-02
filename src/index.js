@@ -7,3 +7,9 @@ import App_2 from './App_2';
 ReactDOM.render(<App />, document.getElementById('root'));
 
 
+/*
+function nextWindow() {
+  // alert("!")
+  ReactDOM.render(<App_2 />, document.getElementById("root"));
+}
+*/
